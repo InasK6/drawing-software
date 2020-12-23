@@ -1,4 +1,4 @@
-# Drawing-software, 
+# Drawing-software
 a software designed like "Print" using JAVAfx ( MVC, Command , Decorator design patterns )
 ### Functionalities:
 - Draw filled or empty ellipses, rectangles
@@ -8,7 +8,7 @@ a software designed like "Print" using JAVAfx ( MVC, Command , Decorator design 
 - Delete them 
 ![](images/PrintProject.png)
 
-It enables you to import you own images as well!
+- It enables you to import you own images as well!
 ![](images/PrintProject2.png)
 
 #### Done??
